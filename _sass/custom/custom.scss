@@ -1,5 +1,12 @@
 //.main {max-width: 800px;}
 
+a:not([class]) {
+  background-size: 0px 0px;
+  &:hover {
+    background-size: 0px 0px;
+  }
+}
+
 
 .image-container {
   padding: 10px;
