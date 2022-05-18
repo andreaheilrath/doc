@@ -1,8 +1,8 @@
 ---
 title: framework
-has_children: false
 layout: default
-permalink: /framework/
+parent: archive
+permalink: archive/framework/
 ---
 
 # Framework
