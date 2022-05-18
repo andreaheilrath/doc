@@ -1,0 +1,10 @@
+theme: "just-the-docs"
+color_scheme: dark
+
+title: doc
+
+baseurl: /doc/
+favicon: "/favicon.ico"
+
+scholar:
+  style: apa
