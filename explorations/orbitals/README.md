@@ -74,18 +74,55 @@ $$\lambda = \frac{h}{p} = \frac{h}{mv}$$
 So electromagnetic waves have particle-like properties and electrons have wave-like properties.
 Welcome to duality!
 
-## Continue here
+
+## Wave Functions and Orbitals
+
+
 
 * Werner Heisenberg's [Matrix Mechanics](https://en.wikipedia.org/wiki/Matrix_mechanics)
 * Erwin Schrödinger's [Equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
 * Paul Dirac's [Transformation Theory](https://en.wikipedia.org/wiki/Transformation_theory_(quantum_mechanics))
 
 
-## Orbitals
-
-The fact, that electrons in the atom are standing waves is mostly ignored in the visualizations and when the wavefunction is displayed it is mainly a surface that contains a certain percentage of the electron. [wave functions](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydwf.html)
+The fact, that electrons in the atom are standing waves is mostly ignored in the visualizations and when the wavefunction is displayed it is mainly a surface that contains a certain percentage of the electron. 
 
 <a href="https://w7.pngwing.com/pngs/103/195/png-transparent-atomic-orbital-molecular-orbital-pi-bond-principal-quantum-number-orbital-hybridisation-others-angle-text-symmetry.png"><img width="512" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Atomic-orbital-clouds_spdf_m0.png" alt="Orbitals displayed with a hard surface and statistical distribution of electrons."></a>
 
 
+
+## Probability Densities
+
+I implemented the [wave functions](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydwf.html) of the Hydrogen Atom in [Houdini](/doc/explorations/computer_graphics/#houdini).
+
+Right now I am not sure if there is already a way to render them in the browser. For now I recorded some gifs to have something here.
+
+The images are made with [this script](./houdini/22-05-29_orbitals.hipnc).
+
+<div class="image-container">
+<figure>
+    <img  src="./houdini/1s.gif" alt="">
+    <figcaption> The 1s orbital. </figcaption>
+</figure>
+</div>
+
+<div class="image-container">
+<figure>
+    <img  src="./houdini/2s.gif" alt="">
+    <figcaption> The 2s orbital. </figcaption>
+</figure>
+</div>
+
+<div class="image-container">
+<figure>
+    <img  src="./houdini/2p1.gif" alt="">
+    <figcaption> The 2p1 orbital. </figcaption>
+</figure>
+</div>
+
+<div class="image-container">
+<figure>
+    <img  src="./houdini/2p2.gif" alt="">
+    <figcaption> The 2p2 orbital. </figcaption>
+</figure>
+</div>
 
