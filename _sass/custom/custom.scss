@@ -10,8 +10,10 @@ a:not([class]) {
 
 .image-container {
   padding: 10px;
-  width: 80%;
+  width: 65%;
   align-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 figcaption {
@@ -36,4 +38,16 @@ figcaption {
    position: absolute;
    top: 0;
    width: 100%;
+}
+
+
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header {
+    display: none;
+  }
+  .main-content-wrap {
+    color: black;
+  }
 }
