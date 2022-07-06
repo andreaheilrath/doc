@@ -87,7 +87,7 @@ Bei anderen in der Wissenschaft verwendeten Verfahren, bei denen Bilder als Mess
 
 <div class="image-container">
 <figure>
-    <img src="./img/beugung_zinkblende.png" alt="Beugungsbild eines Kristalls aus Zinkblende">
+    <img src="./img/diffraction.png" alt="Beugungsbild eines Kristalls aus Zinkblende">
     <figcaption>Beugungsbild eines Kristalls aus Zinkblende (ZnS) {% cite laue1913 %}</figcaption>
 </figure>
 </div>
@@ -105,7 +105,7 @@ Seine Modelle machen es möglich, aus den Beugungsmustern auf Kristallstrukturen
 
 <div class="image-container">
 <figure>
-    <img src="./img/cdi.png" alt="CDI XFEL">
+    <img src="./img/cdi_fel.png" alt="CDI XFEL">
     <figcaption>CDI XFEL</figcaption>
 </figure>
 </div>
