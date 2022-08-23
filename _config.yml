@@ -8,3 +8,4 @@ favicon: "/favicon.ico"
 
 scholar:
   style: apa
+  bibliography_template: bib

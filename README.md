@@ -13,20 +13,24 @@ Bild und Wirklichkeit in der Röntgenphysik
 <!---Halbe Seite, Forschungsfrage und Untersuchungsgegenstand,
 Relevanz und Innovation--->
 
-Scientific progress without the use of images is hardly possible.
-Images have been the subject of study in the humanities, especially in science studies, for more than forty years now {% cite latour1979 galison1998 geimer2002 lefevre2003 %}.
-Yet little thought is given to the meaning and function of images in the natural sciences, and how much epistemic work they do {% cite downes2012 %}.
+Visualizations play an important role in scientific endeavours.
+In the 1970s, sociologists and philosophers began to study the process of fact generation and also discussed the importance of images in this context, see e.g. {% cite latour1979 lynch1990 lefevre2003 %}.
+Although the field has been growing, and more is known about the processes in scientific work, it hardly got any attention by scientists.
+Since the widespread use of computers and the Internet, images have become even more important for knowledge transfer.
+More powerful algorithms are available and digital images are generated faster. One consequence of this is that the boundary between data and images is becoming blurred {% cite cromey2012 adelmann2015 %}.
+At this point, Media Science can also contribute to a more holistic understanding of the role and use of images in science.
 
-My goal is to apply findings of the humanities and observe how they correspond to experimental practice.
-In this context I will also discuss state-of-the-art methods of experimental physics, which have not been addressed so far, e.g. 3D scanning with X-Ray flourescence {% cite bauer2020 %}.
-A central aspect here is the difference between object and representation.
-This difference manifests itself in three ways: first, through the uncertainty in measurement and analysis (error); second, through the relationship between measurement data and object; third, through the representativeness of the measured object.
-
-In the last decades it comes more and more into question how and if scientific knowledge can be truly objective {% cite daston2007 galison1998 %}. 
+In the last decades it comes more and more into question how and if scientific knowledge can be truly objective {% cite daston2007 galison1998 %}.  {% cite jones1998  daston2007 %}
 Objectivity has also come under criticism in Feminist Studies and new concepts have emerged.
 As Donna Haraway puts it in her essay about situated knowledge {% cite haraway1988 %}, science tries to ''see everything from nowhere''.
 Knowlege production is now more and more put into context, also beyond disciplines and beyond universities {% cite gibbons1994 %}.
 To take it a step further, one can ask about the general relation between science and society {% cite nowotny2001 %} and especially the role of images in science communication {% cite pauwels2005 %}.
+
+
+In this context I will also discuss state-of-the-art methods of experimental physics, which have not been addressed so far, e.g. 3D scanning with X-Ray flourescence {% cite bauer2020 %}.
+A central aspect here is the difference between object and representation.
+This difference manifests itself in three ways: first, through the uncertainty in measurement and analysis (error); second, through the relationship between measurement data and object; third, through the representativeness of the measured object.
+
 
 Scince the standard for publications is still the Portable Document Format, modern forms of visualization hardly make it into the publications. 
 Alternative ways of publishing are evolving. 

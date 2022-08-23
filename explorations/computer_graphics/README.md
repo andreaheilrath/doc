@@ -26,10 +26,16 @@ It is a powerful tool that can be used to produce different effects such as comp
 </figure>
 </div>
 
+For the start, I built a donut following [Houdini isn't scary](https://www.sidefx.com/tutorials/houdini-isnt-scary-part-1-basics/).
+In the tutorial, one uses geometries to create objects, a solver for the dynamics (adding gravity), materials (shaders) for the surfaces, and last but not least a camera an a light.
+When you got this, the render pipeline is complete and it is possible to generate images / videos like this:  
+[will be added soon!].
 
-References
 
-* [Houdini isn't scary](https://www.sidefx.com/tutorials/houdini-isnt-scary-part-1-basics/)
+
+#### References
+
+* 
 * [Houdini for Astronomy](http://www.ytini.com/)
 * [Houdini for Mathematicians](http://wordpress.discretization.de/houdini/)
 * [Geometry Processing and Applications WS19](http://wordpress.discretization.de/geometryprocessingandapplicationsws19/)
