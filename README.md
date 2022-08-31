@@ -6,12 +6,28 @@ layout: default
 permalink: /
 ---
 
-# Rendering Reality
-Bild und Wirklichkeit in der Röntgenphysik
+# Rendering Uncertainty. Scientific Subjects and New Media.
+Studien zur Visualisierung von Unsicherheit am Beispiel der Röntgentomographie.
 
 ## Abstract
 <!---Halbe Seite, Forschungsfrage und Untersuchungsgegenstand,
 Relevanz und Innovation--->
+
+The interdisciplinary field of science and technology studies emerged in the 1960.
+Since then, the scientific processes and the scientists themselves have become the object of investigation.
+In my work I will focus on visual representations in science, in particular on the visualization of uncertainty and chance.
+
+Although many books and articles have been published on the relation of scientific images to the "truth", not so much research has been done on how to communicate uncertainties visually.
+When Bruno Latour was visiting the lab of Jonas Edward Salk
+
+immutable mobiles
+
+Semiotics
+
+
+Seemingly uncertainty in the sciences is limited to quantum systems...
+
+
 
 Visualizations play an important role in scientific endeavours.
 In the 1970s, sociologists and philosophers began to study the process of fact generation and also discussed the importance of images in this context, see e.g. {% cite latour1979 lynch1990 lefevre2003 %}.
@@ -23,7 +39,7 @@ At this point, Media Science can also contribute to a more holistic understandin
 In the last decades it comes more and more into question how and if scientific knowledge can be truly objective {% cite daston2007 galison1998 %}.  {% cite jones1998  daston2007 %}
 Objectivity has also come under criticism in Feminist Studies and new concepts have emerged.
 As Donna Haraway puts it in her essay about situated knowledge {% cite haraway1988 %}, science tries to ''see everything from nowhere''.
-Knowlege production is now more and more put into context, also beyond disciplines and beyond universities {% cite gibbons1994 %}.
+Knowledge production is now more and more put into context, also beyond disciplines and beyond universities {% cite gibbons1994 %}.
 To take it a step further, one can ask about the general relation between science and society {% cite nowotny2001 %} and especially the role of images in science communication {% cite pauwels2005 %}.
 
 
