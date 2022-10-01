@@ -1,0 +1,410 @@
+{"0": {
+    "doc": "orbitals",
+    "title": "Orbitals",
+    "content": " ",
+    "url": "/doc/explorations/orbitals/#orbitals",
+    "relUrl": "/explorations/orbitals/#orbitals"
+  },"1": {
+    "doc": "orbitals",
+    "title": "What’s the point?",
+    "content": "Since it was clear that an atom has a substructure, different models of the atom evolved. Any of these models entailed new forms of visualizations. This is especially interesting since there are limited possibilities to measure the structure and find an illustration that is based on measurement. What is easy to measure is the light emitted by atoms, or in general by matter. The four visible hydrogen emission spectrum lines in the Balmer series. H-alpha is the red line at the right. &gt;source ",
+    "url": "/doc/explorations/orbitals/#whats-the-point",
+    "relUrl": "/explorations/orbitals/#whats-the-point"
+  },"2": {
+    "doc": "orbitals",
+    "title": "Orbits",
+    "content": "Nagaoka Hantarō developed 1904 the first planet like model of the atom, the “saturnian theory”. In this model, the atom is described as a positively charged ball (the nucleus) orbited by a shell of negatively charged electrons. Ernest Rutherford and Nils Bohr developed the first successful model to explain the spectrum of the hydrogen atom by describing the structure of the electrons in the atom (1913). Here, electrons are small particles circling around the nucleus on orbits with fixed radii. These determine the energy level of the electron. Actually, Bohr’s model was already a “quantum” model. Since the energy levels in the atom are discrete, emission and absorption of photons is only possible if their energy matches a difference of two energy levels (corresponding to a certain color). But this model is more heuristic and still implies inconsistencies and is now part of Old Quantum Theory. | Bohr’s model of hydrogen on Kahn Academy | Bohr’s Theory of the Hydrogen Atom on Course Hero | . Stylized atom with three Bohr model orbits and stylized nucleus. &gt;source ",
+    "url": "/doc/explorations/orbitals/#orbits",
+    "relUrl": "/explorations/orbitals/#orbits"
+  },"3": {
+    "doc": "orbitals",
+    "title": "Quanta",
+    "content": "The light emitted by atoms was not the only experimental observation that triggered quantum mechanics. The second was the black-body radiation. As the temperature of a black body decreases, its intensity also decreases and its peak moves to longer wavelengths. Shown for comparison is the classical Rayleigh–Jeans law and its ultraviolet catastrophe. &gt;source In 1900 Max Planck solved the puzzle by introducing a constant: h. The so-called Planck constant is essential for describing the relation between energy and frequency for electromagnetic waves (aka light). \\[E=h\\nu\\] These quanta were later called photons. So the first quantum theory was assigning particle properties to waves! Louis de Broglie developed the concept of matter waves in his dissertation 1924. The de Broglie equations relate the wavelength λ to the momentum p, and frequency f to the total energy E of a free particle: . \\[\\lambda = \\frac{h}{p} = \\frac{h}{mv}\\] So electromagnetic waves have particle-like properties and electrons have wave-like properties. Welcome to duality! . ",
+    "url": "/doc/explorations/orbitals/#quanta",
+    "relUrl": "/explorations/orbitals/#quanta"
+  },"4": {
+    "doc": "orbitals",
+    "title": "Wave Functions and Orbitals",
+    "content": ". | Werner Heisenberg’s Matrix Mechanics | Erwin Schrödinger’s Equation | Paul Dirac’s Transformation Theory | . The fact, that electrons in the atom are standing waves is mostly ignored in the visualizations and when the wavefunction is displayed it is mainly a surface that contains a certain percentage of the electron. ",
+    "url": "/doc/explorations/orbitals/#wave-functions-and-orbitals",
+    "relUrl": "/explorations/orbitals/#wave-functions-and-orbitals"
+  },"5": {
+    "doc": "orbitals",
+    "title": "Probability Densities",
+    "content": "I implemented the wave functions of the Hydrogen Atom in Houdini. Right now I am not sure if there is already a way to render them in the browser. For now I recorded some gifs to have something here. The images are made with this script. The 1s orbital. The 2s orbital. The 2p1 orbital. The 2p2 orbital. ",
+    "url": "/doc/explorations/orbitals/#probability-densities",
+    "relUrl": "/explorations/orbitals/#probability-densities"
+  },"6": {
+    "doc": "orbitals",
+    "title": "orbitals",
+    "content": " ",
+    "url": "/doc/explorations/orbitals/",
+    "relUrl": "/explorations/orbitals/"
+  },"7": {
+    "doc": "computer graphics",
+    "title": "Computer Graphics",
+    "content": "This is an overview of tools and techniques I use to visualize. I am especially interested in volumetric rendering. The smallest unit here is the voxel - the 3D complement of the 2D pixel. ",
+    "url": "/doc/explorations/computer_graphics/#computer-graphics",
+    "relUrl": "/explorations/computer_graphics/#computer-graphics"
+  },"8": {
+    "doc": "computer graphics",
+    "title": "3D Software",
+    "content": "Houdini . Houdini is a 3D animation software application developed by Toronto-based SideFX. It is a powerful tool that can be used to produce different effects such as complex reflections, animations and particles system. The Houdini user interface. Displayed is a foggy structure resembling a p orbital. For the start, I built a donut following Houdini isn’t scary. In the tutorial, one uses geometries to create objects, a solver for the dynamics (adding gravity), materials (shaders) for the surfaces, and last but not least a camera an a light. When you got this, the render pipeline is complete and it is possible to generate images / videos like this: [will be added soon!]. References . | | Houdini for Astronomy | Houdini for Mathematicians | Geometry Processing and Applications WS19 | . ",
+    "url": "/doc/explorations/computer_graphics/#3d-software",
+    "relUrl": "/explorations/computer_graphics/#3d-software"
+  },"9": {
+    "doc": "computer graphics",
+    "title": "3D Formats",
+    "content": ". | OpenVDB | . ",
+    "url": "/doc/explorations/computer_graphics/#3d-formats",
+    "relUrl": "/explorations/computer_graphics/#3d-formats"
+  },"10": {
+    "doc": "computer graphics",
+    "title": "Active Research",
+    "content": ". | Scientific Computing and Imaging Institute, Utah; especially the visualization design lab | AG Geometrie und Mathematische Physik, TU Berlin | Multi-Res, Caltech | . ",
+    "url": "/doc/explorations/computer_graphics/#active-research",
+    "relUrl": "/explorations/computer_graphics/#active-research"
+  },"11": {
+    "doc": "computer graphics",
+    "title": "Interesting Concepts",
+    "content": "Schrödinger Smoke Paper . ",
+    "url": "/doc/explorations/computer_graphics/#interesting-concepts",
+    "relUrl": "/explorations/computer_graphics/#interesting-concepts"
+  },"12": {
+    "doc": "computer graphics",
+    "title": "computer graphics",
+    "content": " ",
+    "url": "/doc/explorations/computer_graphics/",
+    "relUrl": "/explorations/computer_graphics/"
+  },"13": {
+    "doc": "explorations",
+    "title": "Explorations",
+    "content": " ",
+    "url": "/doc/explorations/#explorations",
+    "relUrl": "/explorations/#explorations"
+  },"14": {
+    "doc": "explorations",
+    "title": "explorations",
+    "content": " ",
+    "url": "/doc/explorations/",
+    "relUrl": "/explorations/"
+  },"15": {
+    "doc": "framework",
+    "title": "Framework",
+    "content": "I use different tools for this webpage. This is a short description of how and what I used. ",
+    "url": "/doc/archive/framework/#framework",
+    "relUrl": "/archive/framework/#framework"
+  },"16": {
+    "doc": "framework",
+    "title": "Git(Hub)",
+    "content": "All information is stored in a Git repository. Git is a free and open source distributed version control system. Many small steps in the process get recorded and stored safely. The whole repository is hosted via GitHub, a hub for open source developement. ",
+    "url": "/doc/archive/framework/#github",
+    "relUrl": "/archive/framework/#github"
+  },"17": {
+    "doc": "framework",
+    "title": "Jekyll",
+    "content": "Jekyll is a static site generator, that makes a webpage (html, css, javascript) from markdown flies. All Github Pages are based on Jekyll. Unforturnatly many plugins are not allowed to use in Github Pages (like Jekyll Scholar). To avoid this restrictions, I set up my own deploy process via Github Actions. This repo was really useful to do this. It is necessary to set up a local pipeline (install Ruby etc.) for building the Jekyll site, but once it’s done, the deployment via gh-actions and gh-pages is quite straight forward. Make sure, that the GITHUB_TOKEN has writing rights as well. ",
+    "url": "/doc/archive/framework/#jekyll",
+    "relUrl": "/archive/framework/#jekyll"
+  },"18": {
+    "doc": "framework",
+    "title": "Citations",
+    "content": "For managing my library I use Zotero in combination with Better BibTeX . For nice integration of citations on this page I use the plugin Jekyll Scholar. This is an example for a citation (Daston &amp; Galison, 2007). | Daston, L., &amp; Galison, P. (2007). Objectivity. Princeton University Press. | . ",
+    "url": "/doc/archive/framework/#citations",
+    "relUrl": "/archive/framework/#citations"
+  },"19": {
+    "doc": "framework",
+    "title": "three.js",
+    "content": "three.js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL. To embed a three.js canvas, it is necessery to have a html container for the canvas and to embed the script. &lt;div id='canvas-holder' style=\"position: relative; width: inherit;\"&gt; &lt;div id=\"dat-gui-holder\" style=\"position: absolute; top: 0em; right: 0em; z-index: 1;\"&gt;&lt;/div&gt; &lt;/div&gt; &lt;script defer src=\"cube.js\"&gt;&lt;/script&gt; . In the javascript file, one has to refer to the canvas-holder, also in the renderer. var canvasHolder = document.getElementById('canvas-holder'); const renderer = new THREE.WebGLRenderer( { antialias: true} ); //, alpha: true renderer.setSize( width, height ); renderer.setAnimationLoop( animation ); canvasHolder.appendChild( renderer.domElement ); . Full javascript file. References that were useful: . | use-three-js-in-jekyll-blog | jekyll-threejs | . ",
+    "url": "/doc/archive/framework/#threejs",
+    "relUrl": "/archive/framework/#threejs"
+  },"20": {
+    "doc": "framework",
+    "title": "Images",
+    "content": "I use an image container, which is styled via css. &lt;div class=\"image-container\"&gt; &lt;figure&gt; &lt;img src=\"img/mars_channels.jpg\" alt=\"Drawing of Mars showing 'canals' and dark areas. From Percival Lowell Mars London 1896.\"&gt; &lt;figcaption&gt;Drawing of Mars showing 'canals' and dark areas. From Percival Lowell, London 1896. Foto Credit Universal History Archive/UIG / Bridgeman Images&lt;/figcaption&gt; &lt;/figure&gt; &lt;/div&gt; .image-container { padding: 10px; width: 80%; align-content: center; } figcaption { font: italic smaller sans-serif; text-align: center; } . Drawing of Mars showing 'canals' and dark areas. From Percival Lowell, London 1896. Foto Credit Universal History Archive/UIG / Bridgeman Images ",
+    "url": "/doc/archive/framework/#images",
+    "relUrl": "/archive/framework/#images"
+  },"21": {
+    "doc": "framework",
+    "title": "Videos",
+    "content": "I use a video container, which is styled via css. &lt;div class=\"iframe-container\"&gt; &lt;iframe src=\"https://www.youtube.com/embed/LhfCietvDZo\" allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; .iframe-container { overflow: hidden; /* 16:9 aspect ratio */ padding-top: 56.25%; position: relative; margin-top: 2em; } .iframe-container iframe { border-width: 0px; margin: auto; height: 100%; left: 0; position: absolute; top: 0; width: 100%; } . ",
+    "url": "/doc/archive/framework/#videos",
+    "relUrl": "/archive/framework/#videos"
+  },"22": {
+    "doc": "framework",
+    "title": "framework",
+    "content": " ",
+    "url": "/doc/archive/framework/",
+    "relUrl": "/archive/framework/"
+  },"23": {
+    "doc": "first thoughts",
+    "title": "First Thoughts",
+    "content": " ",
+    "url": "/doc/archive/first_thoughts/#first-thoughts",
+    "relUrl": "/archive/first_thoughts/#first-thoughts"
+  },"24": {
+    "doc": "first thoughts",
+    "title": "Potentially Interesting Questions",
+    "content": ". | What is the Scientific Method and how does it work? | What is an experiment and how does it work? | What can we actually see? “Seeing is believing.” (B. Kanngiesser) | How do we observe the building blocks of the universe? (etoms, elementary particles, …) | How do we observe the universe? | What meaning has the speed of light? | What is the relation between energy and mass? | How does spectroscopy work? | What can I as a physicist do what other’s cant (as easily)? | . Related Ideas . | Create content for an immersive space. | Create a new kind of simulation. | Use Touchdesigner to display data. | Presenting data in a way that is new and interesting for a layperson, but also for the scientist who deals with it. | What are the hardest to grasp, but most relevant concepts of today? | Deal with the issue of big data in the science of the 21st century. | Average vs. single events. | Standard error, variance, statistics - every measurement has an error. | Create installations that demonstrate a measurement method. | Oscilllations, waves, resonance | Interaction of particles / sytems in general | (How) Can students and interaction with the public create innovation? | . ",
+    "url": "/doc/archive/first_thoughts/#potentially-interesting-questions",
+    "relUrl": "/archive/first_thoughts/#potentially-interesting-questions"
+  },"25": {
+    "doc": "first thoughts",
+    "title": "Topics",
+    "content": ". | About Science. What is it’s purpose? . | History | Tradition | Epistemology | Models | Methods | Language | Women in Science | Open Science | Critique | Science and society | . | Materialism | Interaction in general | Space / Time | Perception and objectivity | Nature | Digitization | Feminism | Participation | Education | School system | Practical science | What am I researching? | Researchers are humans, too | Build trust | Inspire people | . ",
+    "url": "/doc/archive/first_thoughts/#topics",
+    "relUrl": "/archive/first_thoughts/#topics"
+  },"26": {
+    "doc": "first thoughts",
+    "title": "Institutes and People",
+    "content": ". | Max Planck Institute for the History of Science (MPIWG) online | Exploratorium online | Futurium online | Haus der Kulturen der Welt (HKW) online | State Studio online | Matters of Activity online | EDGE - Blurring the borders between Art and Neuroscience online | Humboldt Labor online | Berlin University Alliance online | NaWik online | Alan Alda Center online | . ",
+    "url": "/doc/archive/first_thoughts/#institutes-and-people",
+    "relUrl": "/archive/first_thoughts/#institutes-and-people"
+  },"27": {
+    "doc": "first thoughts",
+    "title": "Skills and Resources",
+    "content": ". | Design | Media | Curation / Exhibitions | PR | Internationalization | Money | Name | Connections | Participation | Accessibility | Education, Teaching (especially the young) . | Birgit Kanngießer | Albert Lang | Liudger Dienel | Robert Richter | . ",
+    "url": "/doc/archive/first_thoughts/#skills-and-resources",
+    "relUrl": "/archive/first_thoughts/#skills-and-resources"
+  },"28": {
+    "doc": "first thoughts",
+    "title": "Planning of the course",
+    "content": ". | One Topic for each semester | How to be creative | How to Sci.Com | Content, Syllabus | Innovation in Science through Sci.Com / Students | Educational Beamline BESSY II | Workshops with scientific staff | Understanding research of the PIs | Collaboration with UDK, Daisuke | . ",
+    "url": "/doc/archive/first_thoughts/#planning-of-the-course",
+    "relUrl": "/archive/first_thoughts/#planning-of-the-course"
+  },"29": {
+    "doc": "first thoughts",
+    "title": "Sound and Music",
+    "content": ". | Collaborations with Composers | Siren-Bike and other setups | Resonance experiment on chair | Sound Lens | Sound via Transducers (Materiality) | Basic tools: Fourier Transformation | . ",
+    "url": "/doc/archive/first_thoughts/#sound-and-music",
+    "relUrl": "/archive/first_thoughts/#sound-and-music"
+  },"30": {
+    "doc": "first thoughts",
+    "title": "Mindfulness",
+    "content": " ",
+    "url": "/doc/archive/first_thoughts/#mindfulness",
+    "relUrl": "/archive/first_thoughts/#mindfulness"
+  },"31": {
+    "doc": "first thoughts",
+    "title": "Designing the Process",
+    "content": ". | Documenting all I do. | Define SMART goals. | Present my work regularly to others. | Define Goals. | Produce bits and piecs of text once in a while. | . ",
+    "url": "/doc/archive/first_thoughts/#designing-the-process",
+    "relUrl": "/archive/first_thoughts/#designing-the-process"
+  },"32": {
+    "doc": "first thoughts",
+    "title": "Investigate",
+    "content": ". | Networks . | SciCom | Sci/Art | Berlin | . | . Start from above. ",
+    "url": "/doc/archive/first_thoughts/#investigate",
+    "relUrl": "/archive/first_thoughts/#investigate"
+  },"33": {
+    "doc": "first thoughts",
+    "title": "first thoughts",
+    "content": " ",
+    "url": "/doc/archive/first_thoughts/",
+    "relUrl": "/archive/first_thoughts/"
+  },"34": {
+    "doc": "archive",
+    "title": "Archive",
+    "content": "Bits and pieces of the process. ",
+    "url": "/doc/archive/#archive",
+    "relUrl": "/archive/#archive"
+  },"35": {
+    "doc": "archive",
+    "title": "archive",
+    "content": " ",
+    "url": "/doc/archive/",
+    "relUrl": "/archive/"
+  },"36": {
+    "doc": "literature",
+    "title": "Literature",
+    "content": " ",
+    "url": "/doc/resources/literature/#literature",
+    "relUrl": "/resources/literature/#literature"
+  },"37": {
+    "doc": "literature",
+    "title": "Das Technische Bild by Horst Bredekamp",
+    "content": "(Bredekamp et al., 2008) . ",
+    "url": "/doc/resources/literature/#das-technische-bild-by-horst-bredekamp",
+    "relUrl": "/resources/literature/#das-technische-bild-by-horst-bredekamp"
+  },"38": {
+    "doc": "literature",
+    "title": "Situated Knowledge by Donna Haraway",
+    "content": "(Haraway, 1988) . ",
+    "url": "/doc/resources/literature/#situated-knowledge-by-donna-haraway",
+    "relUrl": "/resources/literature/#situated-knowledge-by-donna-haraway"
+  },"39": {
+    "doc": "literature",
+    "title": "How Much Work Do Scientific Images Do? by Stephen Downes",
+    "content": "(Downes, 2012) . ",
+    "url": "/doc/resources/literature/#how-much-work-do-scientific-images-do-by-stephen-downes",
+    "relUrl": "/resources/literature/#how-much-work-do-scientific-images-do-by-stephen-downes"
+  },"40": {
+    "doc": "literature",
+    "title": "Judgement against Objectivity by Peter Galison",
+    "content": "(Galison, 1998) . For Galison “Objectivity is a fighting word”. He argues that over the last centuries the function and ideal of scientific images were changing. In the pre-nineteenth century, scientsts depicted the “hidden true picture”, which involved artistic intervention. The ambition was to attain pictoral “truth to nature”. The result was the metphysical image. In the 19th century photography led to the mechnical image. Science tried to let nature “speak for itself”. The last stage is the interpreted image emerging in the 20th century. Galison the trained eye of the expert needed to recognize patterns in the images and therefore subjective judgement becomes part of the “objective” scientific process. Many aspects of the article are also repesented in this video Objectivity: The Limits of Scientific Sight - Peter L. Galison . ",
+    "url": "/doc/resources/literature/#judgement-against-objectivity-by-peter-galison",
+    "relUrl": "/resources/literature/#judgement-against-objectivity-by-peter-galison"
+  },"41": {
+    "doc": "literature",
+    "title": "Drawing things together by Bruno Latour",
+    "content": "(Latour, 1990) . ",
+    "url": "/doc/resources/literature/#drawing-things-together-by-bruno-latour",
+    "relUrl": "/resources/literature/#drawing-things-together-by-bruno-latour"
+  },"42": {
+    "doc": "literature",
+    "title": "Discipline and the Material Form of Images: An Analysis of Scientific Visibility by Michael Lynch",
+    "content": "(Lynch, 1985) . ",
+    "url": "/doc/resources/literature/#discipline-and-the-material-form-of-images-an-analysis-of-scientific-visibility-by-michael-lynch",
+    "relUrl": "/resources/literature/#discipline-and-the-material-form-of-images-an-analysis-of-scientific-visibility-by-michael-lynch"
+  },"43": {
+    "doc": "literature",
+    "title": "Landkarten des Ungewissen by Hans-Liudger Dienel",
+    "content": "(Dienel &amp; Henseler, 2020) . ",
+    "url": "/doc/resources/literature/#landkarten-des-ungewissen-by-hans-liudger-dienel",
+    "relUrl": "/resources/literature/#landkarten-des-ungewissen-by-hans-liudger-dienel"
+  },"44": {
+    "doc": "literature",
+    "title": "References",
+    "content": ". | Bredekamp, H., Schneider, B., &amp; Dünkel, V. (Eds.). (2008). Das Technische Bild: Kompendium Zu Einer Stilgeschichte Wissenschaftlicher Bilder. Akademie Verlag. | Haraway, D. (1988). Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575. https://doi.org/10.2307/3178066 10.2307/3178066 | Downes, S. M. (2012). How Much Work Do Scientific Images Do? Spontaneous Generations: A Journal for the History and Philosophy of Science, 6(1), 115–130. https://doi.org/10.4245/sponge.v6i1.17154 10.4245/sponge.v6i1.17154 | Galison, P. (1998). Judgement against Objectivity. In C. A. Jones &amp; P. Galison (Eds.), Picturing Science, Producing Art. Routledge. | Latour, B. (1990). Drawing Things Together. In Representation in Scientific Practice. | Lynch, M. (1985). Discipline and the Material Form of Images: An Analysis of Scientific Visibility. Social Studies of Science, 15(1), 37–66. https://doi.org/10.1177/030631285015001002 10.1177/030631285015001002 | Dienel, H.-L., &amp; Henseler, C. (2020). Landkarten des Ungewissen – ein Werkzeug für die Kommunikation von Ungewissheit in den Wissenschaften. In Information und Wissen – Beiträge zum transdisziplinären Diskurs (Number 12). Peter Lang. https://doi.org/10.3726/b15936 10.3726/b15936 | . ",
+    "url": "/doc/resources/literature/#references",
+    "relUrl": "/resources/literature/#references"
+  },"45": {
+    "doc": "literature",
+    "title": "literature",
+    "content": " ",
+    "url": "/doc/resources/literature/",
+    "relUrl": "/resources/literature/"
+  },"46": {
+    "doc": "conferences",
+    "title": "Conferences",
+    "content": " ",
+    "url": "/doc/resources/conferences/#conferences",
+    "relUrl": "/resources/conferences/#conferences"
+  },"47": {
+    "doc": "conferences",
+    "title": "Focus.On.Transformation 2022",
+    "content": "by Design &amp; Computation, Bitkom, FH Dortmund, VDID. Side Event of European Bauhaus &gt;program . Encounters . | I should visit the course Zur Diagrammatik by Prof. Susanne Hauser | Visualizations have a performative aspect. | Creating feedback loops of visualizations and people’s behavior could be an interesting endavor. | Geschichte und Theorie der visuellen Kultur | Drawing Things Together by Bruno Latour | Entwurf as a tool to make eventualities accessible. | . Robert Schnüll Open Sourcing a University . RS is part of the .medienhaus\\ . “As the COVID-19 pandemic happened, we quickly needed to provide an intuitive remote collaboration platform, satisfying the requirements and needs of an art school during this crisis and beyond. We rapidly prototyped and iteratively enhanced a privacy-focused, free and open-source set of tools and services for our students and staff.” . Web1 was more decentralized than Web2. Do we need the new Web3 or would it be better to “go back” to Web1? . ",
+    "url": "/doc/resources/conferences/#focusontransformation-2022",
+    "relUrl": "/resources/conferences/#focusontransformation-2022"
+  },"48": {
+    "doc": "conferences",
+    "title": "Weizenbaum Conference 2022: Practicing Sovereignty. Interventions for open digital futures",
+    "content": "&gt;program . Encounters . | The Critical Engineering Manifesto - | Boundary Object | Adam Harvey’s WHAT IS A FACE? | Berlin Open Lab | . Claude Draude Reconfiguring Participation and Power Relations in Sociotechnical Systems Design . “Claude Draude is professor at the Faculty of Electrical Engineering and Computer Science at the University of Kassel, Germany. She works with approaches from intersectional feminist STS, new materialism, arts and design in computing.” . She is researching Sociotechnical Systems Design, taking into account the multitude of biases and suppressions in information systems. Bias can be rooted in the data, the algorithms &amp; models, as well as in the use of systems. C. Draude integrates concepts from feminist scientists like Donna Haraway and Karen Barad. She was talking about the concept of diffraction as Barad uses it. New Materialism in SSD . Interesting Publications . | “Boundaries Do Not Sit Still” from Interaction to Agential Intra-action in HCI. online | Situated algorithms: a sociotechnical systemic approach to bias online | . ",
+    "url": "/doc/resources/conferences/#weizenbaum-conference-2022-practicing-sovereignty-interventions-for-open-digital-futures",
+    "relUrl": "/resources/conferences/#weizenbaum-conference-2022-practicing-sovereignty-interventions-for-open-digital-futures"
+  },"49": {
+    "doc": "conferences",
+    "title": "re:publica 2022",
+    "content": "Maja Göpel Her mit der besseren Zukunft . A talk about transformation research and how to tackle climate change. We have the economic and technological capability to cope with the climate catastrophe. The big question is, if society can make this change. We need One strategy can be multisolving. (28:00) . We need new stories that stop destructive behavior and open up minds for new solutions. ",
+    "url": "/doc/resources/conferences/#republica-2022",
+    "relUrl": "/resources/conferences/#republica-2022"
+  },"50": {
+    "doc": "conferences",
+    "title": "conferences",
+    "content": " ",
+    "url": "/doc/resources/conferences/",
+    "relUrl": "/resources/conferences/"
+  },"51": {
+    "doc": "resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "/doc/resources/#resources",
+    "relUrl": "/resources/#resources"
+  },"52": {
+    "doc": "resources",
+    "title": "resources",
+    "content": " ",
+    "url": "/doc/resources/",
+    "relUrl": "/resources/"
+  },"53": {
+    "doc": "reconstruction",
+    "title": "Reconstruction",
+    "content": "Some objects or structures cannot be captured in a direct way. In these cases, one has to use techniques to reconstruct the relevant structure from other data. ",
+    "url": "/doc/reconstruction/#reconstruction",
+    "relUrl": "/reconstruction/#reconstruction"
+  },"54": {
+    "doc": "reconstruction",
+    "title": "Tomography",
+    "content": "The whole idea behind tomography is to record the “shadows” of an object from different angles and then reconstruct the shape of the object by synthetization of the different perspectives. The algorithms that are used for reconstruction belong to the class of inverse problems. One of the most common algorithms for tomographic reconstruction is the inverse Radon transform, in particular the Filtered Back-projection. Iterative Reconstruction and Fan-Beam Reconstruction for example are also used. Another hot topic is reconstruction with machine learning models. TomoPy is a python library for tomographic reconstruction. A standard sample for the reconstructions is the Shepp-Logan phantom, which exists in 2D and 3D. The Shepp-Logan phantom image. Simple standard test image created by Larry Shepp and Benjamin F. Logan for their 1974 paper \"The Fourier Reconstruction of a Head Section.\" ",
+    "url": "/doc/reconstruction/#tomography",
+    "relUrl": "/reconstruction/#tomography"
+  },"55": {
+    "doc": "reconstruction",
+    "title": "Reconstruction and X-Rays",
+    "content": "Tomography can be used in combination with X-Rays, like e.g. at BESSY II X-Tomography. Another interesting field is coherent diffraction imaging (CDI), a lens-less imaging technique based on reconstruction. There are open databases for CDI, the CXIDB, and for X-ray tomograms by the Finnish Inverse Problems Society. ",
+    "url": "/doc/reconstruction/#reconstruction-and-x-rays",
+    "relUrl": "/reconstruction/#reconstruction-and-x-rays"
+  },"56": {
+    "doc": "reconstruction",
+    "title": "NeRFs",
+    "content": "Neural Radiance Fields are interesting. Here’s a paper from B. Mildenhall et al. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis . ",
+    "url": "/doc/reconstruction/#nerfs",
+    "relUrl": "/reconstruction/#nerfs"
+  },"57": {
+    "doc": "reconstruction",
+    "title": "reconstruction",
+    "content": " ",
+    "url": "/doc/reconstruction/",
+    "relUrl": "/reconstruction/"
+  },"58": {
+    "doc": "home",
+    "title": "Rendering Uncertainty. Scientific Subjects and New Media.",
+    "content": "Studien zur Visualisierung von Unsicherheit am Beispiel der Röntgentomographie. ",
+    "url": "/doc/#rendering-uncertainty-scientific-subjects-and-new-media",
+    "relUrl": "/#rendering-uncertainty-scientific-subjects-and-new-media"
+  },"59": {
+    "doc": "home",
+    "title": "Abstract",
+    "content": "The interdisciplinary field of science and technology studies emerged in the 1960. Since then, the scientific processes and the scientists themselves have become the object of investigation. In my work I will focus on visual representations in science, in particular on the visualization of uncertainty and chance. Although many books and articles have been published on the relation of scientific images to the “truth”, not so much research has been done on how to communicate uncertainties visually. When Bruno Latour was visiting the lab of Jonas Edward Salk . immutable mobiles . Semiotics . Seemingly uncertainty in the sciences is limited to quantum systems… . Visualizations play an important role in scientific endeavours. In the 1970s, sociologists and philosophers began to study the process of fact generation and also discussed the importance of images in this context, see e.g. (Latour &amp; Woolgar, 1979; Lynch &amp; Woolgar, 1990; Lefèvre et al., 2003). Although the field has been growing, and more is known about the processes in scientific work, it hardly got any attention by scientists. Since the widespread use of computers and the Internet, images have become even more important for knowledge transfer. More powerful algorithms are available and digital images are generated faster. One consequence of this is that the boundary between data and images is becoming blurred (Cromey, 2012; Adelmann et al., 2015). At this point, Media Science can also contribute to a more holistic understanding of the role and use of images in science. In the last decades it comes more and more into question how and if scientific knowledge can be truly objective (missing reference). (Jones &amp; Galison, 1998; Daston &amp; Galison, 2007) Objectivity has also come under criticism in Feminist Studies and new concepts have emerged. As Donna Haraway puts it in her essay about situated knowledge (Haraway, 1988), science tries to ‘‘see everything from nowhere’’. Knowledge production is now more and more put into context, also beyond disciplines and beyond universities (Gibbons et al., 1994). To take it a step further, one can ask about the general relation between science and society (Nowotny et al., 2001) and especially the role of images in science communication (Pauwels, 2005). In this context I will also discuss state-of-the-art methods of experimental physics, which have not been addressed so far, e.g. 3D scanning with X-Ray flourescence (Bauer et al., 2020). A central aspect here is the difference between object and representation. This difference manifests itself in three ways: first, through the uncertainty in measurement and analysis (error); second, through the relationship between measurement data and object; third, through the representativeness of the measured object. Scince the standard for publications is still the Portable Document Format, modern forms of visualization hardly make it into the publications. Alternative ways of publishing are evolving. One example is distill, an online peer-reviewed journal where aricles are written for the web (distill, 2022). To demystify complex scientific knowledge and make the multi-layered process that precedes publication more tangible, Latour’s chains of representation can be applied (Latour &amp; Woolgar, 1979). By looking at all the steps in the evaluation pipeline, each transformation becomes traceable. In each substep, the scientist has to make decisions and thus shapes the final result. Especially in experiments where reconstruction algorithms are used or in 3D renderings of information, there is a lot of creative freedom in the (re)presentation. Using X-ray physics as an example, I will explore how the visualization of research results plays out inside and outside of science, how ideas manifest themselves in it, and how images can contribute to effective communication but also to misinformation. ",
+    "url": "/doc/#abstract",
+    "relUrl": "/#abstract"
+  },"60": {
+    "doc": "home",
+    "title": "Fragestellung",
+    "content": "Experimente in den Naturwissenschaften werden komplexer und die zugehörigen Daten nehmen immer mehr Platz auf den Festplatten von Forschungseinrichtungen ein. Diese enormen Datensätze können nur mit Hilfe von Algorithmen ausgewertet werden, wodurch Rechner eine immer wichtigere Rolle in den Wissenschaften, und damit in der Wissensproduktion, einnehmen. In Publikationen werden in den seltensten Fällen Rohdaten gezeigt, üblicherweise durchlaufen die Messdaten einen längerem Prozess bei dem Selektion, Transformation und Visualisierung Anwendung finden. In diesem Prozess gibt es an verschiedenen Stellen Spielräume, jeder Teilschritt der Datenauswertung kann auf verschiedene Weise umgesetzt werden. Dabei geht es nicht unbedingt um ein normatives ‘‘falsch’’ oder ‘‘richtig’’. In jedem Falle aber sind Forschende dazu gezwungen, ihre Forschungsergebnisse zu gestalten. Dieser Gestaltungsprozess fängt beim Messaufbau an, setzt sich aber in Details wie der Skalierung, der Farbgebung eines Bilds, oder im Extremfall dem Rendering von dreidimensionalen Objekten fort. Schematische Darstellung der Coronavirus-Protease. © H. Tabermann/HZB In vielen Disziplinen haben sich über Jahrzehnte Standards für die Darstellung spezifischer Untersuchungsgegenstände etabliert. Hier kann es sich um Atome und Moleküle, um Zellen, Galaxien, Oberflächenstrukturen von Platinen handeln. Bei näherer Betrachtung stellt sich oft heraus, dass zwar die Form der Daten in zur Visualisierung passt, allerdings durch eine ‘‘begreifbaren’’ Form auch Eindrücke entstehen, die mit dem Untersuchungsgegenstand nichts mehr zu tun haben. Ein Beispiel soll hier die Visualisierung der Coronavirus-Protease sein, siehe Abbildung. Beispiel ausführen! . Repräsentation . Visualisierungen haben einen festen Platz in der Repräsentation von Systemen, der Planung experimenteller Aufbauten, Auswertung und Interpretation von Daten und der Modellbildung. In den wenigsten Fällen wird klar, welchen genauen Prozesse zur Herstellung eines Bildes durchlaufen werden, bevor sie sich als Ergebnis in Fachjournalen zeigen. Hierbei lässt sich zwischen “erstellten” Grafiken, wie beispielsweise Diagrammen und Zeichnungen, sowie der direkten Darstellung von Messdaten unterscheiden. Die Technologie der Photographie hat ermöglicht, Objekte abzubilden und somit Messungen auf Papier festzuhalten. Im Falle einer photographischen Aufnahme ist relativ klar nachvollziehbar, wie sich Objekt und die Repräsentation zueinander verhalten. Bei anderen in der Wissenschaft verwendeten Verfahren, bei denen Bilder als Messergebnisse auftreten ist diese Zuordnung weniger eindeutig. Beugungsbild eines Kristalls aus Zinkblende (ZnS) (Laue, 1913) Die ersten Schattenbilder die Ende des 19. Jahrhunderts von Wilhelm Conrad Röntgen aufgenommen wurden, lassen sich intuitiv deuten. Die “neue Art von Strahlen” (Röntgen, 1895) kann im Gegensatz zu sichtbarem Licht Materialien durchdringen und lässt so Rückschlüsse auf das innere des Körpers zu. Ein großer Sprung in der Geschichte der Röntgenphysik war die Entdeckung von Beugung an Kristallen von Friedrich, Knipping und Laue (Laue, 1913). Diese neuartigen Beugungsexperimente erlaubten große Fortschritte in der Kristallographie, denn das Auflösungsvermögen von Röntgenstrahlung ist durch deren kurze Wellenlängen \\(10^{-9} - 10^{-12}\\) Meter) in der Größenordnung der Gitterabstände. Die Messergebnisse dieses Verfahrens sind aber bei weitem nicht mehr so leicht zu interpretieren wie Röntgens Schattenbilder. Eines der ersten veröffentlichten Beugungsbilder ist auf Abb.zu sehen. Direkte, intuitive Rückschlüsse auf den Beobachtungsgegenstand sind quasi unmöglich. Für die Theorie zur Röntgenbeugung bekommt Max von Laue 1914 den Nobelpreis. Seine Modelle machen es möglich, aus den Beugungsmustern auf Kristallstrukturen zurückzuschließen. CDI XFEL Inzwischen können wir nicht nur periodische Strukutren – Kristalle – mittels Beugungsexperimenten untersuchen, sondern auch die Struktur einzelner, nanometergroßer Teilchen mit Röngentstrahlen untersuchen. Das Verfahren zur linsenfreien Abbildung einzelner Nanopartikel mittels Diffratkion wurde 2002 von Sayre vorgeschlgen (Sayre, 2002). Hierbei werden einzelne Teilchen mit einem hochintensiven Röntgenlaser beschossen, siehe Abbildung. Aus dem Beugungsbild lässt sich mittels Rekonstruktionsalgorithmen auf den zweidimensionalen Umriss des Teilchens schließen. Über tausende Einzelschüsse kann durch dieses Verfahren auch auf die räumliche Ausdehnung geschlossen werden. Bild und Wirklichkeit . | Differenz zwischen Bild und Objekt | Atlanten (Garsheys) | Objektivität (Daston &amp; Galison, 2007) | Bilder als Teil der Wissensproduktion bei Jürgen Renn (Renn, 2020) | The Power of Images in Early Modern Science. (Lefèvre et al., 2003) | . ",
+    "url": "/doc/#fragestellung",
+    "relUrl": "/#fragestellung"
+  },"61": {
+    "doc": "home",
+    "title": "Wissensproduktion im Kontext",
+    "content": "In der Wissenschaftsforschung wird seit mehreren Jahrzehnten über die Rolle von Bildern in der Wissensproduktion publiziert (missing reference). Repräsentationsketten - Latour, Woolgar (Latour &amp; Woolgar, 1979) . Im Kontext neuer Forschungspraktiken werden Bilder als statt, vlg. (Gibbons et al., 1994) Tatsächlich ist der Transfer in die Wissenschaften selbst bisher kaum gelungen. Naturwissenschaftler:innen sind sich meist nicht über die Perspektiven aus den Geisteswissenschaften bewusst. Sozialer Kontext, Situated Knowledge, Donna Haraway (Haraway, 1988) Informationsgeflecht - Deleuze, Guattari (Deleuze &amp; Guattari, 1977) New Modes of Knowledge Production (Gibbons et al., 1994) Bild und Objektivität in der Wissenschaft (missing reference) . (Bauer et al., 2020) Neue Agenturen, die sich mit der Visualisierung von wissenschaftlicher Erkenntnis auseinandersetzten. (Studio, 2022) Art and Science. e.g. Victoria Vesna , Eric Heller, Das Fraunhofer-Netzwerk »Wissenschaft, Kunst und Design« . Forschungslücke und Relevanz . Forschungslücke Systematische Untersuchung der Funktion und Rolle von Visualisierungen in der Wissenschaft, insbesondere in der Röntgenphysik. Format von Visualisierungen in Veröffentlichungen. Ausführung der Repräsentationskette an geeigeneten Beispielen. Relevanz Experimente in der Forschung gewinnen Komplexität. Sichtbarmachung erfolgt meist über Bilder. Neue Arten der Sichtbarmachnug / Visualierung vefügbar (Bewegtbild, VR) Bilder sind Schnittstelle für Nicht-Wissenschaftler:innen, Bilder wecken Interesse. ",
+    "url": "/doc/#wissensproduktion-im-kontext",
+    "relUrl": "/#wissensproduktion-im-kontext"
+  },"62": {
+    "doc": "home",
+    "title": "Forschungsstand",
+    "content": "Röntgenbild der Hand des Anatomen Albert von Kölliker, aufgenommen im Physikalischen Institut der Universität Würzbug am 23. Januar 1896 von Wilhelm Conrad Röntgen . | Pauwels L. Visual Cultures of Science: Rethinking Representational Practices in Knowledge Building and Science Communication (Pauwels, 2005) | Übersicht zur Rolle des Bildes in Technik und Wissenschaften: Das Technische Bild (Bredekamp et al., 2008) | Doktorarbeit Jochen Hennig über die Bildpraxis in der frühen Nanotechnologie (Hennig, 2011) | Emmison M., Smith P. und Mayall M. Researching the visual. Sage, 2012. (Emmison et al., 2012) | R. Adelmann u. a. Datenbilder. transcript-Verlag, 2015. (Adelmann et al., 2015) | . Die Rolle des Bildes in den Anfängen der Röntgenphysik . Untersuchungen zu Bildern der Frühen Röntgenphysik “Durchleuchtung”, Vera Dünkels . ",
+    "url": "/doc/#forschungsstand",
+    "relUrl": "/#forschungsstand"
+  },"63": {
+    "doc": "home",
+    "title": "Vorgehen und Methode",
+    "content": "tba . ",
+    "url": "/doc/#vorgehen-und-methode",
+    "relUrl": "/#vorgehen-und-methode"
+  },"64": {
+    "doc": "home",
+    "title": "Zeit- und Arbeitsplan",
+    "content": "Erstes Jahr (04/22 - 03/23) . Weiterntwicklung der Forschungsfrage Recherche zu bestehenden Arbeiten im Forschungsfeld . Zweites Jahr (04/23 - 03/24) . Drittes Jahr (04/24- 03/25) . ",
+    "url": "/doc/#zeit--und-arbeitsplan",
+    "relUrl": "/#zeit--und-arbeitsplan"
+  },"65": {
+    "doc": "home",
+    "title": "Vorläufige Gliederung",
+    "content": ". | The Role of Images in the Production of Knowledge . | Concepts and Definitions from Science Studies | \\textit{Object}ivity and Mode 2 | How Much Work do Scientific Images Do? (Downes, 2012) | Visualization as Scientific Practice | . | Representation of Experimental Results in (X-Ray) Physics . | Typical Process of Measurement and Analysis | Computers as Collaborators | Chains of Representations (Latour &amp; Woolgar, 1979) | The Role of Design in Science | Dealing with Uncertainty | . | Communication / Science and Society . | '’Science Image’’ | Aesthetics and the Digital Realm | (Un)Published Images | New Forms of Visualization | (Digital) Art and Scientific Knowledge | . | . ",
+    "url": "/doc/#vorl%C3%A4ufige-gliederung",
+    "relUrl": "/#vorläufige-gliederung"
+  },"66": {
+    "doc": "home",
+    "title": "Literature",
+    "content": ". | Latour, B., &amp; Woolgar, S. (1979). Laboratory Life: The Construction of Scientific Facts (J. Salk, Ed.). Princeton University Press. https://doi.org/doi:10.1515/9781400820412 doi:10.1515/9781400820412 | Lynch, M., &amp; Woolgar, S. (Eds.). (1990). Representation in Scientific Practice (1st MIT Press ed). MIT Press. | Lefèvre, W., Renn, J., &amp; Schoepflin, U. (Eds.). (2003). The Power of Images in Early Modern Science. Birkhäuser Basel. https://doi.org/10.1007/978-3-0348-8099-2 10.1007/978-3-0348-8099-2 | Cromey, D. W. (2012). Digital Images Are Data: And Should Be Treated as Such. In D. J. Taatjes &amp; J. Roth (Eds.), Cell Imaging Techniques (Vol. 931, pp. 1–27). Humana Press. https://doi.org/10.1007/978-1-62703-056-4_1 10.1007/978-1-62703-056-4_1 | Adelmann, R., Frercks, J., Heßler, M., &amp; Hennig, J. (2015). Datenbilder: Zur Digitalen Bildpraxis in Den Naturwissenschaften. transcript-Verlag. | Jones, C. A., &amp; Galison, P. (Eds.). (1998). Picturing Science, Producing Art. Routledge. | Daston, L., &amp; Galison, P. (2007). Objectivity. Princeton University Press. | Haraway, D. (1988). Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 14(3), 575. https://doi.org/10.2307/3178066 10.2307/3178066 | Gibbons, M., Limoges, C., Nowotny, H., Schwartzman, S., Scott, P., &amp; Trow, M. (1994). The New Production of Knowledge: The Dynamics of Science and Research in Contemporary Societies. SAGE Publications. | Nowotny, H., Scott, P., &amp; Gibbons, M. (2001). Re-Thinking Science: Knowledge and the Public in an Age of Uncertainty. Wiley. | Pauwels, L. (2005). Visual Cultures of Science: Rethinking Representational Practices in Knowledge Building and Science Communication. The University of Chicago Press. | Bauer, L. J., Mustafa, H. A., Zaslansky, P., &amp; Mantouvalou, I. (2020). Chemical Mapping of Teeth in 2D and 3D: X-ray Fluorescence Reveals Hidden Details in Dentine Surrounding Fillings. Acta Biomaterialia, 109, 142–152. https://doi.org/10.1016/j.actbio.2020.04.008 10.1016/j.actbio.2020.04.008 | distill. (2022). Distill [Online Journal]. https://distill.pub/. | Laue, M. (1913). Eine quantitative Prüfung der Theorie für die Interferenzerscheinungen bei Röntgenstrahlen. Annalen Der Physik, 346(10), 989–1002. https://doi.org/10.1002/andp.19133461005 10.1002/andp.19133461005 | Röntgen, W. C. (1895). Über Eine Neue Art von Strahlen: Vorläufige Mitteilung. Sitzungsberichte Phys. Med. Gesellschaft, 1–10. | Sayre, D. (2002). X-Ray Crystallography: The Past and Present of the Phase Problem. Structural Chemistry, 13(1), 81–96. | Renn, J. (2020). The Evolution of Knowledge: Rethinking Science for the Anthropocene. Princeton University Press. | Deleuze, G., &amp; Guattari, F. (1977). Rhizom. Merve. | Studio, C. (2022). COVID-19 and SARS-CoV-2. https://cognitionstudio.com/covid-19/. | Bredekamp, H., Schneider, B., &amp; Dünkel, V. (Eds.). (2008). Das Technische Bild: Kompendium Zu Einer Stilgeschichte Wissenschaftlicher Bilder. Akademie Verlag. | Hennig, J. (2011). Bildpraxis: visuelle Strategien in der frühen Nanotechnologie. transcript. | Emmison, M., Smith, P., &amp; Mayall, M. (2012). Researching the Visual. Sage. | Downes, S. M. (2012). How Much Work Do Scientific Images Do? Spontaneous Generations: A Journal for the History and Philosophy of Science, 6(1), 115–130. https://doi.org/10.4245/sponge.v6i1.17154 10.4245/sponge.v6i1.17154 | . ",
+    "url": "/doc/#literature",
+    "relUrl": "/#literature"
+  },"67": {
+    "doc": "home",
+    "title": "home",
+    "content": " ",
+    "url": "/doc/",
+    "relUrl": "/"
+  }
+}
